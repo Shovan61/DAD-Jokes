@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.App{
+  background-image: linear-gradient(to bottom, #dc780b, #ce8b00, #bb9d00, #a5ad00, #8abb1d);;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
